@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @navihm16druva
+- 👋 Hi, I’m Naveen
 - 👀 I’m interested in ... CyberSecurity
 - 🌱 I’m currently learning ... Basics of CyberSecurity
 - 💞️ I’m looking to collaborate on ...
